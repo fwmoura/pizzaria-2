@@ -7,7 +7,7 @@
         }
         
         #header {
-            background-image: url(forno\ a\ lenha\ topo.jpg);
+            background-image: url("forno\ a\ lenha\ topo.jpg") ;
             background-color: #d54545;
             color: #07550c;
             padding: 20px;
